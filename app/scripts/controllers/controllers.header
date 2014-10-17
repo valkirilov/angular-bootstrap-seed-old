@@ -1,0 +1,3 @@
+'use strict';
+
+var AppControllers = angular.module('myApp.controllers', []);

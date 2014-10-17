@@ -1,8 +1,3 @@
-'use strict';
-
-/* Services */
-var AppServices = angular.module('myApp.services', []);
-
 
 AppServices.service('DatabaseService', function() {
 

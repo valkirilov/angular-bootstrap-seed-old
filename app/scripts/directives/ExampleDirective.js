@@ -1,8 +1,3 @@
-'use strict';
-
-/* Directives */
-var AppDirectives = angular.module('myApp.directives', []);
-
 // AppDirectives.directive('exampleDirective', function () {
 //     return {
 //         restrict: 'E',
