@@ -3,6 +3,10 @@ angular-bootstrap-seed
 
 This is my seed project for AngularJS apps with Bootstrap
 
+### How to setup env
+
+git clone https://github.com/valkirilov/angular-bootstrap-seed.git
+
 ### How to run server
 
 Because of the problems with cross-origins on localhost you have to put your app on a server or just run simpple HTTP server on your machine. Run web-server.js placed in the scripts folder from the root of the project. Then navigate your browser to **http://localhost:<port>/app/index.html** to see the app running in your browser.
